@@ -52,15 +52,21 @@ I'm a passionate Full Stack Developer focused on building scalable, responsive, 
 
 ---
 
-### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mvisruth&show_icons=true&theme=github_dark&hide_border=true)
+## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvisruth&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Mvisruth&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mvisruth&theme=github-dark-blue&hide_border=true)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mvisruth&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mvisruth&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 ### 🤝 Connect With Me
 
