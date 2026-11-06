@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi there, I'm Visruth M 👋
 
-<!--
-**Mvisruth/Mvisruth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | MERN Stack Developer
 
-Here are some ideas to get you started:
+I'm a passionate Full Stack Developer focused on building scalable, responsive, and user-friendly web applications. I enjoy learning new technologies, solving problems, and developing efficient software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in Full Stack Web Development
+- 🌱 Currently learning AWS, Docker, Jenkins and CI/CD
+- ⚙️ Exploring cloud infrastructure and application deployment
+- 📚 Continuously improving my development and problem-solving skills
+- 🎯 Open to Software Developer opportunities
+
+---
+
+### 💻 Technical Skills
+
+**Frontend Development**
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- TypeScript
+- HTML5 & CSS3
+- Tailwind CSS
+- Bootstrap
+- Material UI
+
+**Backend Development**
+- Node.js
+- Express.js
+- RESTful APIs
+- JWT Authentication
+- Socket.IO
+
+**Databases**
+- MongoDB
+- PostgreSQL
+
+**Cloud & DevOps**
+- AWS
+- Docker
+- Docker Compose
+- Jenkins
+- Kubernetes (Familiar)
+- CI/CD Concepts
+
+**Tools & Technologies**
+- Git
+- GitHub
+- VS Code
+- Postman
+- Linux
+
+---
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mvisruth&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvisruth&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mvisruth&theme=github-dark-blue&hide_border=true)
+
+---
+
+### 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mvisruth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+---
+
+### 💡 Developer Mindset
+
+"Always learning, continuously improving, and building solutions that make a difference."
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mvisruth&color=blue&style=flat)
