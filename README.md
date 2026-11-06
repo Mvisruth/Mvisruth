@@ -4,15 +4,15 @@
 
 I'm a passionate Full Stack Developer focused on building scalable, responsive, and user-friendly web applications. I enjoy learning new technologies, solving problems, and developing efficient software solutions.
 
-- 💻 Interested in Full Stack Web Development
-- 🌱 Currently learning AWS, Docker, Jenkins and CI/CD
-- ⚙️ Exploring cloud infrastructure and application deployment
-- 📚 Continuously improving my development and problem-solving skills
-- 🎯 Open to Software Developer opportunities
+- Interested in Full Stack Web Development
+- Currently learning AWS, Docker, Jenkins and CI/CD
+- Exploring cloud infrastructure and application deployment
+- Continuously improving my development and problem-solving skills
+- Open to Software Developer opportunities
 
 ---
 
-### 💻 Technical Skills
+###  Technical Skills
 
 **Frontend Development**
 - React.js
@@ -53,7 +53,7 @@ I'm a passionate Full Stack Developer focused on building scalable, responsive, 
 ---
 
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Mvisruth&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
